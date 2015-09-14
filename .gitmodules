@@ -1,0 +1,6 @@
+[submodule "uap-core"]
+	path = uap-core
+	url = ssh://gerrit.wikimedia.org:29418/analytics/ua-parser/uap-core
+[submodule "uap-java"]
+	path = uap-java
+	url = ssh://gerrit.wikimedia.org:29418/analytics/ua-parser/uap-java
